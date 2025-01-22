@@ -16,6 +16,7 @@ Click on a domain to get started:
 4. **[Architecture , Microprocessors & PCB Design](./AMPs/README.md)**
 5. **[Cybersecurity](./Cybersecurity/README.md)**
 6. **[Robotics](./Robotics/README.md)**
+7. **[DevOps](./DevOps)**
 
 ---
 
