@@ -80,7 +80,7 @@ You will have cleared Step 1 if you completely learn any one Object-Oriented Pro
 
 ## Step 6: Flutter Roadmap
 
-![Flutter Roadmap](Web-Mobile-Development/assets/appdev-roadmap.png) 
+* [Flutter Roadmap](https://drive.google.com/file/d/1T0AL0Amtis04uKLTmOCqyFMCIvQlh6af/view?usp=drive_link)
 
 ### Flutter Setup
 
